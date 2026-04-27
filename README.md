@@ -72,9 +72,7 @@ The assignment asks for at least three prompts. I prepared them in `demo/prompts
 
 ## Video Link
 
-Add your final 45-90 second video link here after recording:
-
-`TODO: replace with Zoom cloud link or unlisted YouTube/Vimeo link`
+[Watch the demo video](https://youtu.be/HByfc56_QJI)
 
 ## Suggested Video Flow
 
