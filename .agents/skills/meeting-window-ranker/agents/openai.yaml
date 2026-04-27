@@ -1,0 +1,3 @@
+interface:
+  display_name: "Meeting Window Ranker"
+  short_description: "Rank cross-timezone meeting slots with exact local-time and work-hour checks"

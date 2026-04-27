@@ -1,0 +1,29 @@
+{
+  "meeting_duration_minutes": 60,
+  "candidate_window": {
+    "start": "2026-05-05T12:00:00Z",
+    "end": "2026-05-05T18:00:00Z",
+    "step_minutes": 30
+  },
+  "top_n": 3,
+  "participants": [
+    {
+      "name": "NYC Product",
+      "timezone": "America/New_York",
+      "work_hours": { "start": "09:00", "end": "17:00" },
+      "preferred_hours": { "start": "10:00", "end": "16:00" }
+    },
+    {
+      "name": "London Design",
+      "timezone": "Europe/London",
+      "work_hours": { "start": "09:00", "end": "17:30" },
+      "preferred_hours": { "start": "09:30", "end": "16:30" }
+    },
+    {
+      "name": "Bangalore Engineering",
+      "timezone": "Asia/Kolkata",
+      "work_hours": { "start": "13:00", "end": "21:00" },
+      "preferred_hours": { "start": "14:00", "end": "20:00" }
+    }
+  ]
+}

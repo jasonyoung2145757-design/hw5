@@ -1,0 +1,21 @@
+{
+  "meeting_duration_minutes": 60,
+  "candidate_window": {
+    "start": "2026-05-05T13:00:00Z",
+    "end": "2026-05-05T18:00:00Z",
+    "step_minutes": 30
+  },
+  "top_n": 3,
+  "participants": [
+    {
+      "name": "US East Team",
+      "timezone": "EST",
+      "work_hours": { "start": "09:00", "end": "17:00" }
+    },
+    {
+      "name": "US Central Team",
+      "timezone": "CST",
+      "work_hours": { "start": "09:00", "end": "17:00" }
+    }
+  ]
+}
