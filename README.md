@@ -73,14 +73,3 @@ The assignment asks for at least three prompts. I prepared them in `demo/prompts
 ## Video Link
 
 [Watch the demo video](https://youtu.be/HByfc56_QJI)
-
-## Suggested Video Flow
-
-For the walkthrough, show:
-
-1. the folder structure under `.agents/skills/meeting-window-ranker/`
-2. the `name` and `description` in `SKILL.md`
-3. the core logic in `scripts/rank_meeting_windows.py`
-4. one successful run on `demo/normal-case.json`
-5. one edge-case run on `demo/edge-case-overnight.json`
-6. one cautious run on `demo/cautious-case-ambiguous-timezone.json`
